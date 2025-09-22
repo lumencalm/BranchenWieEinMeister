@@ -2,3 +2,5 @@
 Console.WriteLine("-Manuel Haas-");
 Console.WriteLine("Alles an diesem Tag ist wunderbar und schön");
 Console.WriteLine("---------------------------------------------");
+Console.WriteLine();
+Console.WriteLine();
